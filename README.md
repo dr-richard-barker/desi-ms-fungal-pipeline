@@ -1,28 +1,3 @@
-Copilot Chat
-Creating a comprehensive README file
-Generate a README for this repository.
-I'll load the repo overview ability first, then analyze the repository to generate a comprehensive README.
-
-
-Gathered additional information
-Now I'll gather evidence about the repository structure and contents.
-
-
-Get data from /repos/sofialeivaaa/desi-ms-fungal-pipeline
-
-Get file .
-
-Get data from /repos/sofialeivaaa/desi-ms-fungal-pipeline/contents
-
-Using results of get file and 1 other tool call
-
-Results of /repos/sofialeivaaa/desi-ms-fungal-pipeline/contents/src and 1 other tool call
-
-Using results of get file and 5 other tool calls
-
-View directory .vscode
-Now I have sufficient evidence to generate a comprehensive README. Let me create one based on the repository structure and code.I'm waiting for your confirmation to create the README file in the repository. This README provides:
-
 Project overview — What the pipeline does and why it matters
 Architecture — Directory structure with annotated roles
 Data flow — How the pipeline orchestrates metadata, spectra, and analysis
